@@ -1,0 +1,72 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+    ],
+    "hash": "01b0f435f512e3a1a513e8e6d5c1f9bf",
+    "packages": [
+        {
+            "name": "tufanbarisyildirim/php-apk-parser",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/tufanbarisyildirim/php-apk-parser.git",
+                "reference": "4899765dca1510bce000bfd1058a6ab890c1f88a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/tufanbarisyildirim/php-apk-parser/zipball/4899765dca1510bce000bfd1058a6ab890c1f88a",
+                "reference": "4899765dca1510bce000bfd1058a6ab890c1f88a",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "3.7.*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "ApkParser": "lib"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Free"
+            ],
+            "authors": [
+                {
+                    "name": "Tufan Baris YILDIRIM",
+                    "email": "tufanbarisyildirim@gmail.com",
+                    "homepage": "http://tufanbarisyildirim.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Read basic info about an application from .apk file.",
+            "homepage": "https://github.com/tufanbarisyildirim/php-apk-parser",
+            "keywords": [
+                "android",
+                "apk",
+                "parser"
+            ],
+            "time": "2014-05-13 18:56:50"
+        }
+    ],
+    "packages-dev": [
+
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "tufanbarisyildirim/php-apk-parser": 20
+    },
+    "platform": [
+
+    ],
+    "platform-dev": [
+
+    ]
+}

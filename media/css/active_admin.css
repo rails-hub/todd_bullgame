@@ -1,0 +1,2115 @@
+
+body.active_admin span.icon {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+body.active_admin span.icon svg {
+    vertical-align: baseline;
+}
+
+body.active_admin span.icon {
+    height: 0.8em;
+    width: 0.8em;
+}
+
+body.active_admin span.icon svg {
+    height: 0.8em;
+    width: 0.8em;
+}
+
+body.active_admin html, body.active_admin body, body.active_admin div, body.active_admin span, body.active_admin applet, body.active_admin object, body.active_admin iframe, body.active_admin h1, body.active_admin h2, body.active_admin h3, body.active_admin h4, body.active_admin h5, body.active_admin h6, body.active_admin p, body.active_admin blockquote, body.active_admin pre, body.active_admin a, body.active_admin abbr, body.active_admin acronym, body.active_admin address, body.active_admin big, body.active_admin cite, body.active_admin code, body.active_admin del, body.active_admin dfn, body.active_admin em, body.active_admin font, body.active_admin img, body.active_admin ins, body.active_admin kbd, body.active_admin q, body.active_admin s, body.active_admin samp, body.active_admin small, body.active_admin strike, body.active_admin strong, body.active_admin sub, body.active_admin sup, body.active_admin tt, body.active_admin var, body.active_admin dl, body.active_admin dt, body.active_admin dd, body.active_admin ol, body.active_admin ul, body.active_admin li, body.active_admin fieldset, body.active_admin form, body.active_admin label, body.active_admin legend, body.active_admin table, body.active_admin caption, body.active_admin tbody, body.active_admin tfoot, body.active_admin thead, body.active_admin tr, body.active_admin th, body.active_admin td {
+    border: 0 none;
+    font-family: inherit;
+    font-size: 100%;
+    font-style: inherit;
+    font-weight: inherit;
+    margin: 0;
+    outline: 0 none;
+    padding: 0;
+    vertical-align: baseline;
+}
+
+body.active_admin body {
+    background: none repeat scroll 0 0 #FFFFFF;
+    color: #000000;
+    line-height: 1;
+}
+
+body.active_admin ol, body.active_admin ul {
+    list-style: none outside none;
+}
+
+body.active_admin table {
+    border-collapse: separate;
+    border-spacing: 0;
+    vertical-align: middle;
+}
+
+body.active_admin caption, body.active_admin th, body.active_admin td {
+    font-weight: normal;
+    text-align: left;
+    vertical-align: middle;
+}
+
+body.active_admin q, body.active_admin blockquote {
+    quotes: "" "";
+}
+
+body.active_admin q:before, body.active_admin q:after, body.active_admin blockquote:before, body.active_admin blockquote:after {
+    content: "";
+}
+
+body.active_admin a img {
+    border: medium none;
+}
+
+body.active_admin html {
+    font-size: 100.01%;
+}
+
+body.active_admin h1, body.active_admin h2, body.active_admin h3, body.active_admin h4, body.active_admin h5, body.active_admin h6 {
+    color: #000000;
+    font-weight: normal;
+}
+
+body.active_admin h1 img, body.active_admin h2 img, body.active_admin h3 img, body.active_admin h4 img, body.active_admin h5 img, body.active_admin h6 img {
+    margin: 0;
+}
+
+body.active_admin h1 {
+    font-size: 3em;
+    line-height: 1;
+    margin-bottom: 0.5em;
+}
+
+body.active_admin h2 {
+    font-size: 2em;
+    margin-bottom: 0.75em;
+}
+
+body.active_admin h3 {
+    font-size: 1.5em;
+    line-height: 1;
+    margin-bottom: 1em;
+}
+
+body.active_admin h4 {
+    font-size: 1.2em;
+    line-height: 1.25;
+    margin-bottom: 1.25em;
+}
+
+body.active_admin h5 {
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 1.5em;
+}
+
+body.active_admin h6 {
+    font-size: 1em;
+    font-weight: bold;
+}
+
+body.active_admin p {
+    margin: 0 0 1.5em;
+}
+
+body.active_admin p .left {
+    margin: 1.5em 1.5em 1.5em 0;
+    padding: 0;
+}
+
+body.active_admin p .right {
+    margin: 1.5em 0 1.5em 1.5em;
+    padding: 0;
+}
+
+body.active_admin .left {
+    float: left !important;
+}
+
+body.active_admin .right {
+    float: right !important;
+}
+
+body.active_admin blockquote {
+    color: #666666;
+    font-style: italic;
+    margin: 1.5em;
+}
+
+body.active_admin strong, body.active_admin dfn {
+    font-weight: bold;
+}
+
+body.active_admin em, body.active_admin dfn {
+    font-style: italic;
+}
+
+body.active_admin sup, body.active_admin sub {
+    line-height: 0;
+}
+
+body.active_admin abbr, body.active_admin acronym {
+    border-bottom: 1px dotted #666666;
+}
+
+body.active_admin address {
+    font-style: italic;
+    margin: 0 0 1.5em;
+}
+
+body.active_admin del {
+    color: #666666;
+}
+
+body.active_admin pre {
+    margin: 1.5em 0;
+    white-space: pre;
+}
+
+body.active_admin pre, body.active_admin code, body.active_admin tt {
+    font: 1em/1.5 'andale mono', 'lucida console', monospace;
+}
+
+body.active_admin li ul, body.active_admin li ol {
+    margin: 0;
+}
+
+body.active_admin ul, body.active_admin ol {
+    margin: 0 1.5em 1.5em 0;
+    padding-left: 1.5em;
+}
+
+body.active_admin ul {
+    list-style-type: disc;
+}
+
+body.active_admin ol {
+    list-style-type: decimal;
+}
+
+body.active_admin dl {
+    margin: 0 0 1.5em;
+}
+
+body.active_admin dl dt {
+    font-weight: bold;
+}
+
+body.active_admin dd {
+    margin-left: 1.5em;
+}
+
+body.active_admin table {
+    margin-bottom: 1.4em;
+    width: 100%;
+}
+
+body.active_admin th {
+    font-weight: bold;
+}
+
+body.active_admin thead th {
+    background: none repeat scroll 0 0 #C3D9FF;
+}
+
+body.active_admin th, body.active_admin td, body.active_admin caption {
+    padding: 4px 10px 4px 5px;
+}
+
+body.active_admin .small {
+    font-size: 0.8em;
+    line-height: 1.875em;
+    margin-bottom: 1.875em;
+}
+
+body.active_admin .large {
+    font-size: 1.2em;
+    line-height: 2.5em;
+    margin-bottom: 1.25em;
+}
+
+body.active_admin .hide {
+    display: none;
+}
+
+body.active_admin .quiet {
+    color: #666666;
+}
+
+body.active_admin .loud {
+    color: #000000;
+}
+
+body.active_admin .highlight {
+    background: none repeat scroll 0 0 #FFFF00;
+}
+
+body.active_admin .added {
+    background: none repeat scroll 0 0 #006600;
+    color: #FFFFFF;
+}
+
+body.active_admin .removed {
+    background: none repeat scroll 0 0 #990000;
+    color: #FFFFFF;
+}
+
+body.active_admin .first {
+    margin-left: 0;
+    padding-left: 0;
+}
+
+body.active_admin .last {
+    margin-right: 0;
+    padding-right: 0;
+}
+
+body.active_admin .top {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+body.active_admin .bottom {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+body.active_admin #header {
+    background: -moz-linear-gradient(-90deg, #0D0D0D, #000000) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border-bottom: 1px solid #000000;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.37);
+    height: 45px;
+    overflow: visible;
+    padding: 9px 30px;
+    position: inherit;
+    text-shadow: 0 1px 0 #000000;
+    z-index: 900;
+    font-size: 14px;
+}
+
+body.active_admin #header h1 {
+    color: #CDCDCD;
+    display: inline-block;
+    float: left;
+    font-size: 1.3em;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-right: 20px;
+    padding-top: 3px;
+}
+
+body.active_admin #header h1 a {
+    text-decoration: none;
+}
+
+body.active_admin #header h1 a:hover {
+    color: #FFFFFF;
+}
+
+body.active_admin #header h1 img {
+    position: relative;
+    top: -2px;
+}
+
+body.active_admin #header a, body.active_admin #header a:link {
+    color: #CDCDCD;
+}
+
+body.active_admin #header .header-item {
+    float: left;
+    height: 20px;
+    position: relative;
+    top: 2px;
+}
+
+body.active_admin #header ul#tabs {
+    display: inline-block;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body.active_admin #header ul#tabs > li {
+    display: inline-block;
+    font-size: 1em;
+    margin-right: 4px;
+    position: relative;
+}
+
+body.active_admin #header ul#tabs > li a {
+    border-radius: 10px;
+    padding: 6px 10px 4px;
+    position: relative;
+    text-decoration: none;
+}
+
+body.active_admin #header ul#tabs > li.current > a {
+    background: none repeat scroll 0 0 #7B8389;
+    color: #FFFFFF;
+}
+
+body.active_admin #header ul#tabs > li.has_nested > a {
+    background: url("/assets/active_admin/nested_menu_arrow.gif") no-repeat scroll 89% 50% rgba(0, 0, 0, 0);
+    padding-right: 20px;
+    z-index: 1050;
+}
+
+body.active_admin #header ul#tabs > li.has_nested.current > a {
+    background: url("/assets/active_admin/nested_menu_arrow_dark.gif") no-repeat scroll 89% 50% #7B8389;
+    padding-right: 20px;
+}
+
+body.active_admin #header ul#tabs > li:hover > a {
+    color: #FFFFFF;
+}
+
+body.active_admin #header ul#tabs > li.has_nested:hover > a {
+    border-radius: 10px 10px 0 0;
+}
+
+body.active_admin #header ul#tabs > li:hover ul {
+    display: block;
+}
+
+body.active_admin #header ul#tabs > li ul {
+    border-radius: 0 10px 10px;
+    box-shadow: 0 1px 3px #444444;
+    display: none;
+    float: left;
+    list-style: none outside none;
+    margin-top: 5px;
+    padding: 3px 0 5px;
+    position: absolute;
+    width: 175px;
+    z-index: 1010;
+}
+
+body.active_admin #header ul#tabs > li ul li {
+    margin: 0;
+}
+
+body.active_admin #header ul#tabs > li ul li a {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    display: block;
+}
+
+body.active_admin #header ul#tabs > li ul li a:hover {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #FFFFFF;
+}
+
+body.active_admin #header ul#tabs > li ul li.current a {
+    border-radius: 0;
+}
+
+body.active_admin #header #utility_nav {
+    color: #AAAAAA;
+    display: inline-block;
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+
+body.active_admin #header #utility_nav span, body.active_admin #header #utility_nav a {
+    margin-left: 10px;
+}
+
+body.active_admin #header #utility_nav a {
+    text-decoration: none;
+}
+
+body.active_admin #header #utility_nav a:hover {
+    color: #FFFFFF;
+}
+
+body.active_admin body.active_admin span.icon {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+body.active_admin body.active_admin span.icon svg {
+    vertical-align: baseline;
+}
+
+body.active_admin body.active_admin span.icon {
+    height: 0.8em;
+    width: 0.8em;
+}
+
+body.active_admin body.active_admin span.icon svg {
+    height: 0.8em;
+    width: 0.8em;
+}
+
+body.active_admin td span.icon svg path, body.active_admin td span.icon svg polygon, body.active_admin td span.icon svg rect, body.active_admin td span.icon svg circle, body.active_admin p span.icon svg path, body.active_admin p span.icon svg polygon, body.active_admin p span.icon svg rect, body.active_admin p span.icon svg circle {
+    fill: #B3BCC1 !important;
+}
+
+body.active_admin td span.icon, body.active_admin p span.icon {
+    height: 0.8em;
+    width: 0.8em;
+}
+
+body.active_admin td span.icon svg, body.active_admin p span.icon svg {
+    height: 0.8em;
+    width: 0.8em;
+}
+
+body.active_admin td span.icon, body.active_admin p span.icon {
+    margin: 0 3px;
+}
+
+body.active_admin a.member_link {
+    margin-right: 7px;
+    white-space: nowrap;
+}
+
+body.active_admin form ul, body.active_admin form ol, body.active_admin form li, body.active_admin form fieldset, body.active_admin form legend, body.active_admin form input, body.active_admin form textarea, body.active_admin form select, body.active_admin form p {
+    margin: 0;
+    padding: 0;
+}
+
+body.active_admin form ol, body.active_admin form ul {
+    list-style: none outside none;
+}
+
+body.active_admin form fieldset {
+    border: 0 none;
+    margin-bottom: 20px;
+    padding: 10px 0;
+}
+
+body.active_admin form fieldset.inputs {
+    background: none repeat scroll 0 0 #F4F4F4;
+    border-radius: 4px;
+    box-shadow: 0 1px 4px #DDDDDD inset;
+}
+
+body.active_admin form fieldset legend {
+    width: 100%;
+}
+
+body.active_admin form fieldset legend span {
+    border: 1px solid #CDCDCD;
+    color: #5E6469;
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 18px;
+    margin-bottom: 0.5em;
+    padding: 5px 10px 3px;
+    text-shadow: 0 1px 0 #FFFFFF;
+}
+
+body.active_admin form fieldset legend span span.icon svg path, body.active_admin form fieldset legend span span.icon svg polygon, body.active_admin form fieldset legend span span.icon svg rect, body.active_admin form fieldset legend span span.icon svg circle {
+    fill: #5E6469 !important;
+}
+
+body.active_admin form fieldset legend span span.icon {
+    height: 1em;
+    width: 1em;
+}
+
+body.active_admin form fieldset legend span span.icon svg {
+    height: 1em;
+    width: 1em;
+}
+
+body.active_admin form fieldset ol > li {
+    padding: 10px;
+}
+
+body.active_admin form fieldset ol > li label {
+    color: #5E6469;
+    display: block;
+    float: left;
+    font-size: 1em;
+    font-weight: bold;
+    width: 20%;
+}
+
+body.active_admin form fieldset ol > li label abbr {
+    border: medium none;
+    color: #AAAAAA;
+}
+
+body.active_admin form fieldset ol > div.has_many {
+    padding: 20px 10px;
+}
+
+body.active_admin form fieldset ol > div.has_many h3 {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+body.active_admin form fieldset ol > li > li label {
+    line-height: 100%;
+    padding-top: 0;
+}
+
+body.active_admin form fieldset ol > li > li label input {
+    line-height: 100%;
+    margin-top: -0.1em;
+    vertical-align: middle;
+}
+
+body.active_admin form fieldset > ol > li fieldset {
+    margin-bottom: 0;
+    padding: 0;
+    position: relative;
+}
+
+body.active_admin form fieldset > ol > li fieldset legend {
+    font-size: 100%;
+    font-weight: normal;
+    left: 0;
+    padding-top: 0.1em;
+    position: absolute;
+    width: 95%;
+}
+
+body.active_admin form fieldset > ol > li fieldset legend span {
+    position: absolute;
+}
+
+body.active_admin form fieldset > ol > li fieldset legend.label label {
+    position: absolute;
+}
+
+body.active_admin form fieldset > ol > li fieldset ol {
+    float: left;
+    margin: 0;
+    padding: 0 0 0 20%;
+    width: 74%;
+}
+
+body.active_admin form fieldset > ol > li fieldset ol li {
+    border: 0 none;
+    padding: 0;
+}
+
+body.active_admin form input[type="text"], body.active_admin form input[type="password"], body.active_admin form input[type="email"], body.active_admin form input[type="number"], body.active_admin form input[type="url"], body.active_admin form input[type="tel"], body.active_admin form textarea {
+    border: 1px solid #C9D0D6;
+    border-radius: 3px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 0.95em;
+    outline: medium none;
+    padding: 8px 10px 7px;
+    width: 76%;
+}
+
+body.active_admin form input[type="text"]:focus, body.active_admin form input[type="password"]:focus, body.active_admin form input[type="email"]:focus, body.active_admin form input[type="number"]:focus, body.active_admin form input[type="url"]:focus, body.active_admin form input[type="tel"]:focus, body.active_admin form textarea:focus {
+    border: 1px solid #99A2AA;
+    box-shadow: 0 0 4px #99A2AA;
+}
+
+body.active_admin form fieldset > ol > li p.inline-hints {
+    color: #666666;
+    font-size: 0.95em;
+    font-style: italic;
+    margin: 0.5em 0 0 20%;
+}
+
+body.active_admin form fieldset > ol > li.date fieldset ol li, body.active_admin form fieldset > ol > li.time fieldset ol li, body.active_admin form fieldset > ol > li.datetime fieldset ol li, body.active_admin form fieldset > ol > li.date_select fieldset ol li {
+    float: left;
+    margin: 0 0.5em 0 0;
+    width: auto;
+}
+
+body.active_admin form fieldset > ol > li.date fieldset ol li label, body.active_admin form fieldset > ol > li.time fieldset ol li label, body.active_admin form fieldset > ol > li.datetime fieldset ol li label, body.active_admin form fieldset > ol > li.date_select fieldset ol li label {
+    display: none;
+}
+
+body.active_admin form fieldset > ol > li.date fieldset ol li input, body.active_admin form fieldset > ol > li.time fieldset ol li input, body.active_admin form fieldset > ol > li.datetime fieldset ol li input, body.active_admin form fieldset > ol > li.date_select fieldset ol li input {
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+
+body.active_admin form fieldset > ol > li.check_boxes fieldset ol, body.active_admin form fieldset > ol > li.radio fieldset ol {
+    margin-bottom: -0.6em;
+}
+
+body.active_admin form fieldset > ol > li.check_boxes fieldset ol li, body.active_admin form fieldset > ol > li.radio fieldset ol li {
+    margin: 0.1em 0 0.5em;
+}
+
+body.active_admin form fieldset > ol > li.check_boxes fieldset ol li label, body.active_admin form fieldset > ol > li.radio fieldset ol li label {
+    float: none;
+    width: 100%;
+}
+
+body.active_admin form fieldset > ol > li.check_boxes fieldset ol li label input, body.active_admin form fieldset > ol > li.radio fieldset ol li label input {
+    margin-right: 0.2em;
+}
+
+body.active_admin form fieldset > ol > li.boolean {
+    height: 1.1em;
+}
+
+body.active_admin form fieldset > ol > li.boolean label {
+    font-weight: normal;
+    padding-left: 20%;
+    padding-right: 10px;
+    text-transform: none !important;
+    width: 80%;
+}
+
+body.active_admin form fieldset > ol > li.boolean label input {
+    margin: 0 0.5em 0 0.2em;
+}
+
+body.active_admin form fieldset > ol > li p.inline-errors {
+    color: #932419;
+    font-weight: bold;
+    margin: 0.3em 0 0 20%;
+}
+
+body.active_admin form fieldset > ol > li ul.errors {
+    color: #932419;
+    list-style: square outside none;
+    margin: 0.5em 0 0 20%;
+}
+
+body.active_admin form fieldset > ol > li ul.errors li {
+    border: medium none;
+    display: list-item;
+    padding: 0;
+}
+
+body.active_admin form fieldset > ol > li.error input[type="text"], body.active_admin form fieldset > ol > li.error input[type="password"], body.active_admin form fieldset > ol > li.error input[type="email"], body.active_admin form fieldset > ol > li.error input[type="url"], body.active_admin form fieldset > ol > li.error input[type="tel"], body.active_admin form fieldset > ol > li.error textarea {
+    border: 1px solid #932419;
+}
+
+body.active_admin form ul.errors {
+    background: none repeat scroll 0 0 #FAE6E4;
+    border-radius: 4px;
+    color: #932419;
+    font-weight: bold;
+    list-style: square outside none;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+body.active_admin form ul.errors li {
+    border: medium none;
+    display: list-item;
+    margin-left: 15px;
+    padding: 0;
+}
+
+body.active_admin form input[type="submit"] {
+    cursor: pointer;
+}
+
+body.active_admin form .buttons, body.active_admin form .actions {
+    margin-top: 15px;
+}
+
+body.active_admin form .buttons input[type="submit"], body.active_admin form .actions input[type="submit"] {
+    margin-right: 10px;
+}
+
+body.active_admin form fieldset.buttons li, body.active_admin form fieldset.actions li {
+    float: left;
+    padding: 0;
+}
+
+body.active_admin form fieldset.buttons li.cancel a span.icon svg path, body.active_admin form fieldset.buttons li.cancel a span.icon svg polygon, body.active_admin form fieldset.buttons li.cancel a span.icon svg rect, body.active_admin form fieldset.buttons li.cancel a span.icon svg circle, body.active_admin form fieldset.actions li.cancel a span.icon svg path, body.active_admin form fieldset.actions li.cancel a span.icon svg polygon, body.active_admin form fieldset.actions li.cancel a span.icon svg rect, body.active_admin form fieldset.actions li.cancel a span.icon svg circle {
+    fill: #777777 !important;
+}
+
+body.active_admin form fieldset.buttons li.cancel a span.icon, body.active_admin form fieldset.actions li.cancel a span.icon {
+    height: 9px;
+    width: 9px;
+}
+
+body.active_admin form fieldset.buttons li.cancel a span.icon svg, body.active_admin form fieldset.actions li.cancel a span.icon svg {
+    height: 9px;
+    width: 9px;
+}
+
+body.active_admin .sidebar_section label {
+    color: #5E6469;
+    display: block;
+    font-size: 0.9em;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+body.active_admin .sidebar_section select {
+    width: 240px;
+}
+
+body.active_admin .sidebar_section input[type="text"], body.active_admin .sidebar_section input[type="password"], body.active_admin .sidebar_section input[type="email"], body.active_admin .sidebar_section input[type="url"], body.active_admin .sidebar_section input[type="tel"], body.active_admin .sidebar_section textarea {
+    width: 220px;
+}
+
+body.active_admin form.filter_form .filter_form_field {
+    clear: both;
+    margin-bottom: 10px;
+}
+
+body.active_admin form.filter_form .filter_form_field.filter_numeric input[type="text"] {
+    margin-left: 16px;
+    width: 88px;
+}
+
+body.active_admin form.filter_form .filter_form_field.filter_numeric select {
+    width: 108px;
+}
+
+body.active_admin form.filter_form .filter_form_field.filter_check_boxes label {
+    margin-bottom: 3px;
+}
+
+body.active_admin form.filter_form .filter_form_field.filter_check_boxes .check_boxes_wrapper label {
+    font-size: 1em;
+    font-weight: normal;
+    margin-bottom: 3px;
+    text-transform: none;
+}
+
+body.active_admin form.filter_form .filter_form_field.filter_check_boxes .check_boxes_wrapper label input {
+    vertical-align: baseline;
+}
+
+body.active_admin form.filter_form .filter_form_field.filter_date_range .seperator {
+    display: inline-block;
+    text-align: center;
+    width: 12px;
+}
+
+body.active_admin form.filter_form .filter_form_field.filter_date_range input[type="text"] {
+    background: url("/assets/active_admin/datepicker/datepicker-input-icon.png") no-repeat scroll 100% 7px #FFFFFF;
+    padding-right: 27px;
+    width: 71px;
+}
+
+body.active_admin .comments .active_admin_comment {
+    clear: both;
+    margin-bottom: 40px;
+    margin-top: 10px;
+    max-width: 700px;
+}
+
+body.active_admin .comments .active_admin_comment .active_admin_comment_meta {
+    color: #1A1A1A;
+    float: left;
+    font-size: 0.9em;
+    overflow: hidden;
+    width: 130px;
+}
+
+body.active_admin .comments .active_admin_comment .active_admin_comment_meta .active_admin_comment_author {
+    color: #000000;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin: 0;
+}
+
+body.active_admin .comments .active_admin_comment .active_admin_comment_body {
+    margin-left: 150px;
+}
+
+body.active_admin .comments form.active_admin_comment {
+    margin: 0 0 0 150px;
+    padding: 0;
+}
+
+body.active_admin .comments form.active_admin_comment fieldset.inputs {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    box-shadow: none;
+    margin: 0;
+    padding: 0;
+}
+
+body.active_admin .comments form.active_admin_comment li {
+    padding: 0;
+}
+
+body.active_admin .comments form.active_admin_comment fieldset.buttons {
+    margin-top: 5px;
+    padding: 0;
+}
+
+body.active_admin .logged_in .flash {
+    background: -moz-linear-gradient(-90deg, #F7F1D3, #F5EDC5) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border-bottom: 1px solid #EEE098;
+    color: #CB9810;
+    font-size: 1.1em;
+    font-weight: bold;
+    line-height: 1em;
+    margin-bottom: 10px;
+    padding: 13px 30px 11px;
+    position: relative;
+    text-shadow: 0 1px 0 #FAFAFA;
+    top: -15px;
+}
+
+body.active_admin .logged_in .flash.flash_notice {
+    background: -moz-linear-gradient(-90deg, #DCE9DD, #CCDFCD) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border-bottom: 1px solid #ADCBAF;
+    color: #416347;
+}
+
+body.active_admin .logged_in .flash.flash_error {
+    background: -moz-linear-gradient(-90deg, #F5E4E4, #F1DCDC) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border-bottom: 1px solid #E0C2C0;
+    color: #B33C33;
+}
+
+body.active_admin .logged_out .flash {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    box-shadow: none;
+    color: #666666;
+    font-weight: bold;
+    line-height: 1em;
+    margin-bottom: 10px;
+    padding: 0;
+    text-shadow: 0 1px 0 #FFFFFF;
+}
+
+body.active_admin .ui-datepicker {
+    background: url("/assets/active_admin/datepicker/datepicker-nipple.png") no-repeat scroll 0 -40px rgba(0, 0, 0, 0);
+    color: #FFFFFF;
+    display: none;
+    margin-top: 2px;
+    padding: 0;
+    text-align: center;
+    width: 160px;
+}
+
+body.active_admin .ui-datepicker a {
+    text-decoration: none;
+}
+
+body.active_admin .ui-datepicker a:hover {
+    cursor: pointer;
+}
+
+body.active_admin .ui-datepicker .ui-datepicker-header {
+    background: url("/assets/active_admin/datepicker/datepicker-header-bg.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 12px;
+    padding: 16px 7px 8px;
+    position: relative;
+    z-index: 2000;
+}
+
+body.active_admin .ui-datepicker .ui-datepicker-header .ui-datepicker-title {
+    color: #FFFFFF;
+    display: block;
+    font-size: 1.1em;
+    font-weight: bold;
+    line-height: 0.8em;
+    text-align: center;
+    text-shadow: 0 1px 0 #000000;
+}
+
+body.active_admin .ui-datepicker .ui-datepicker-header a {
+    color: #FFFFFF;
+    display: block;
+    height: 19px;
+    margin-top: -4px;
+    width: 20px;
+}
+
+body.active_admin .ui-datepicker .ui-datepicker-header a.ui-datepicker-prev {
+    background: url("/assets/active_admin/datepicker/datepicker-prev-link-icon.png") no-repeat scroll 2px 5px rgba(0, 0, 0, 0);
+    float: left;
+}
+
+body.active_admin .ui-datepicker .ui-datepicker-header a.ui-datepicker-next {
+    background: url("/assets/active_admin/datepicker/datepicker-next-link-icon.png") no-repeat scroll 12px 5px rgba(0, 0, 0, 0);
+    float: right;
+}
+
+body.active_admin .ui-datepicker .ui-datepicker-header a:active {
+    height: 18px;
+    margin-top: -3px;
+}
+
+body.active_admin .ui-datepicker .ui-datepicker-header a span {
+    display: none;
+}
+
+body.active_admin .ui-datepicker table.ui-datepicker-calendar {
+    background-color: #F4F4F4;
+    border: 1px solid #63686E;
+    border-radius: 0 0 3px 3px;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.26);
+    left: 2px;
+    margin-bottom: 0;
+    position: relative;
+    top: -2px;
+    width: 156px;
+}
+
+body.active_admin .ui-datepicker table.ui-datepicker-calendar td, body.active_admin .ui-datepicker table.ui-datepicker-calendar th {
+    padding: 0;
+    text-align: center;
+}
+
+body.active_admin .ui-datepicker table.ui-datepicker-calendar thead th {
+    background-color: #DBDDDF;
+    color: #333333;
+    font-size: 0.8em;
+    font-weight: normal;
+    padding-top: 1px;
+}
+
+body.active_admin .ui-datepicker table.ui-datepicker-calendar tbody {
+    color: #666666;
+}
+
+body.active_admin .ui-datepicker table.ui-datepicker-calendar tbody td {
+    border: medium none;
+    height: 24px;
+    width: 22px;
+}
+
+body.active_admin .ui-datepicker table.ui-datepicker-calendar tbody td a {
+    border-radius: 3px;
+    color: #666666;
+    font-size: 0.85em;
+    font-weight: bold;
+    padding: 4px;
+}
+
+body.active_admin .ui-datepicker table.ui-datepicker-calendar tbody td a.ui-state-active {
+    background-color: #5A5F64;
+    color: #FFFFFF;
+}
+
+body.active_admin .ui-datepicker table.ui-datepicker-calendar tbody td a.ui-state-active.ui-state-hover {
+    background-color: #5A5F64;
+    color: #FFFFFF;
+}
+
+body.active_admin .ui-datepicker table.ui-datepicker-calendar tbody td a.ui-state-hover {
+    background-color: #ECEEF0;
+}
+
+body.active_admin .ui-datepicker table.ui-datepicker-calendar tbody td a.ui-state-highlight {
+    background-color: #DBDDDF;
+}
+
+body.active_admin .popover {
+    background: -moz-linear-gradient(-90deg, #0A0A0A, #000000) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: 1px solid #000000;
+    border-radius: 4px;
+    display: inline-block;
+    padding: 2px;
+    position: absolute;
+}
+
+body.active_admin .popover .popover_nipple {
+    border-color: #000000 rgba(0, 0, 0, 0);
+    border-style: solid;
+    border-width: 0 6px 6px;
+    content: "";
+    display: block;
+    height: 0;
+    position: absolute;
+    top: -6px;
+    width: 0;
+    z-index: 100;
+}
+
+body.active_admin .popover .popover_nipple:before {
+    border-color: #262626 rgba(0, 0, 0, 0);
+    border-style: solid;
+    border-width: 0 5px 5px;
+    content: " ";
+    height: 0;
+    left: -5px;
+    position: absolute;
+    top: 1px;
+    width: 0;
+}
+
+body.active_admin .popover .popover_nipple:after {
+    border-color: #0A0A0A rgba(0, 0, 0, 0);
+    border-style: solid;
+    border-width: 0 5px 5px;
+    content: " ";
+    height: 0;
+    left: -5px;
+    position: absolute;
+    top: 2px;
+    width: 0;
+}
+
+body.active_admin .popover .popover_contents {
+    background-color: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 3px;
+    display: block;
+    margin: 0;
+    overflow: hidden;
+    padding: 8px;
+}
+
+body.active_admin .popover ul.popover_contents {
+    list-style-type: none;
+    padding: 0;
+}
+
+body.active_admin .popover ul.popover_contents li {
+    border-bottom: 1px solid #EBEBEB;
+    display: block;
+}
+
+body.active_admin .popover ul.popover_contents li a {
+    display: block;
+    font-size: 0.95em;
+    font-weight: bold;
+    padding: 7px 16px 5px;
+    text-align: center;
+    text-decoration: none;
+}
+
+body.active_admin .popover ul.popover_contents li a:hover {
+    background: -moz-linear-gradient(-90deg, #75A1C2, #608CB4) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #FFFFFF;
+    text-shadow: 0 1px 0 #5A83AA;
+}
+
+body.active_admin .popover ul.popover_contents li a:active {
+    background: -moz-linear-gradient(-90deg, #608CB4, #75A1C2) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #FFFFFF;
+}
+
+body.active_admin .popover ul.popover_contents li:first-child a {
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+}
+
+body.active_admin .popover ul.popover_contents li:last-child {
+    border: medium none;
+}
+
+body.active_admin .popover ul.popover_contents li:last-child a {
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+}
+
+body.active_admin table tr td {
+    vertical-align: top;
+}
+
+body.active_admin table.index_table {
+    border: 0 none;
+    border-spacing: 0;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+body.active_admin table.index_table th {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #CDCDCD -moz-use-text-color #CDCDCD #CDCDCD;
+    border-image: none;
+    border-style: solid none solid solid;
+    border-width: 1px medium 1px 1px;
+    color: #5E6469;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 18px;
+    margin-bottom: 0.5em;
+    padding: 5px 12px 3px;
+    text-align: left;
+    text-shadow: 0 1px 0 #FFFFFF;
+}
+
+body.active_admin table.index_table th span.icon svg path, body.active_admin table.index_table th span.icon svg polygon, body.active_admin table.index_table th span.icon svg rect, body.active_admin table.index_table th span.icon svg circle {
+    fill: #5E6469 !important;
+}
+
+body.active_admin table.index_table th span.icon {
+    height: 1em;
+    width: 1em;
+}
+
+body.active_admin table.index_table th span.icon svg {
+    height: 1em;
+    width: 1em;
+}
+
+body.active_admin table.index_table th a, body.active_admin table.index_table th a:link, body.active_admin table.index_table th a:visited {
+    color: #5E6469;
+    display: block;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+body.active_admin table.index_table th.sortable a {
+    background: url("/assets/active_admin/orderable.png") no-repeat scroll 0 4px rgba(0, 0, 0, 0);
+    padding-left: 13px;
+}
+
+body.active_admin table.index_table th.sorted-asc a {
+    background-position: 0 -27px;
+}
+
+body.active_admin table.index_table th.sorted-desc a {
+    background-position: 0 -56px;
+}
+
+body.active_admin table.index_table th:last-child {
+    border-right: 1px solid #D4D4D4;
+}
+
+body.active_admin table.index_table tr.even td {
+    background: none repeat scroll 0 0 #F4F5F5;
+}
+
+body.active_admin table.index_table tr.selected td {
+    background: none repeat scroll 0 0 #D9E4EC;
+}
+
+body.active_admin table.index_table td {
+    border-bottom: 1px solid #E8E8E8;
+    padding: 10px 12px 8px;
+    vertical-align: top;
+}
+
+body.active_admin .panel_contents table {
+    margin-top: 5px;
+}
+
+body.active_admin .panel_contents table th {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border-bottom: 1px solid #CCCCCC;
+    box-shadow: none;
+    color: #000000;
+    padding-top: 10px;
+    text-shadow: 0 1px 0 #FFFFFF;
+    text-transform: uppercase;
+}
+
+body.active_admin .panel_contents table tr.odd td {
+    background: none repeat scroll 0 0 #ECEDEE;
+}
+
+body.active_admin .panel_contents table tr.even td {
+    background: none repeat scroll 0 0 #F4F5F5;
+}
+
+body.active_admin .attributes_table {
+    overflow: hidden;
+}
+
+body.active_admin .attributes_table table th, body.active_admin .attributes_table table td {
+    border-bottom: 1px solid #E8E8E8;
+    padding: 8px 12px 6px;
+    vertical-align: top;
+}
+
+body.active_admin .attributes_table table th {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    box-shadow: none;
+    color: #000000;
+    font-size: 0.9em;
+    padding-left: 0;
+    text-shadow: 0 1px 0 #FFFFFF;
+    text-transform: uppercase;
+    width: 150px;
+}
+
+body.active_admin .attributes_table table td .empty {
+    color: #BBBBBB;
+    font-size: 0.8em;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+}
+
+body.active_admin .sidebar_section .attributes_table th {
+    width: 50px;
+}
+
+body.active_admin #collection_selection_toggle_panel:after {
+    clear: both;
+    content: "";
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+
+body.active_admin #collection_selection_toggle_panel > .resource_selection_toggle_cell {
+    float: left;
+}
+
+body.active_admin #collection_selection_toggle_panel #collection_selection_toggle_explaination {
+    float: left;
+    font-style: italic;
+    margin-left: 5px;
+}
+
+body.active_admin .blank_slate_container {
+    clear: both;
+    text-align: center;
+}
+
+body.active_admin .blank_slate_container .blank_slate {
+    border: 1px dashed #DADADA;
+    border-radius: 3px;
+    color: #AAAAAA;
+    display: inline-block;
+    font-size: 1.2em;
+    font-weight: bold;
+    padding: 14px 25px;
+    text-align: center;
+}
+
+body.active_admin .blank_slate_container .blank_slate small {
+    display: block;
+    font-size: 0.9em;
+    font-weight: normal;
+}
+
+body.active_admin .admin_dashboard .blank_slate_container .blank_slate {
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+body.active_admin .with_sidebar .blank_slate_container .blank_slate {
+    margin-top: 80px;
+}
+
+body.active_admin .breadcrumb {
+    display: block;
+    font-size: 0.9em;
+    font-weight: normal;
+    line-height: 1em;
+    margin-bottom: 12px;
+    text-transform: uppercase;
+}
+
+body.active_admin .breadcrumb a, body.active_admin .breadcrumb a:link, body.active_admin .breadcrumb a:visited, body.active_admin .breadcrumb a:active {
+    color: #8A949E;
+    text-decoration: none;
+}
+
+body.active_admin .breadcrumb a:hover {
+    text-decoration: underline;
+}
+
+body.active_admin .breadcrumb .breadcrumb_sep {
+    color: #AAB2BA;
+    margin: 0 2px;
+}
+
+body.active_admin td span.icon svg path, body.active_admin td span.icon svg polygon, body.active_admin td span.icon svg rect, body.active_admin td span.icon svg circle, body.active_admin p span.icon svg path, body.active_admin p span.icon svg polygon, body.active_admin p span.icon svg rect, body.active_admin p span.icon svg circle {
+    fill: #B3BCC1 !important;
+}
+
+body.active_admin td span.icon, body.active_admin p span.icon {
+    height: 0.8em;
+    width: 0.8em;
+}
+
+body.active_admin td span.icon svg, body.active_admin p span.icon svg {
+    height: 0.8em;
+    width: 0.8em;
+}
+
+body.active_admin td span.icon, body.active_admin p span.icon {
+    margin: 0 3px;
+}
+
+body.active_admin a.member_link {
+    margin-right: 7px;
+    white-space: nowrap;
+}
+
+body.active_admin .dropdown_menu {
+    display: inline;
+}
+
+body.active_admin .dropdown_menu .dropdown_menu_button {
+    cursor: pointer;
+    padding-right: 22px !important;
+    position: relative;
+}
+
+body.active_admin .dropdown_menu .dropdown_menu_button:before {
+    border-color: #FFFFFF rgba(0, 0, 0, 0);
+    border-style: solid;
+    border-width: 3px 3px 0;
+    content: " ";
+    height: 0;
+    position: absolute;
+    right: 12px;
+    top: 45%;
+    width: 0;
+}
+
+body.active_admin .dropdown_menu .dropdown_menu_button:after {
+    border-color: #777777 rgba(0, 0, 0, 0);
+    border-style: solid;
+    border-width: 3px 3px 0;
+    content: " ";
+    height: 0;
+    position: absolute;
+    right: 12px;
+    top: 45%;
+    width: 0;
+}
+
+body.active_admin .dropdown_menu .dropdown_menu_nipple {
+    border-color: #000000 rgba(0, 0, 0, 0);
+    border-style: solid;
+    border-width: 0 6px 6px;
+    content: "";
+    display: block;
+    height: 0;
+    position: absolute;
+    top: -6px;
+    width: 0;
+    z-index: 100;
+}
+
+body.active_admin .dropdown_menu .dropdown_menu_nipple:before {
+    border-color: #262626 rgba(0, 0, 0, 0);
+    border-style: solid;
+    border-width: 0 5px 5px;
+    content: " ";
+    height: 0;
+    left: -5px;
+    position: absolute;
+    top: 1px;
+    width: 0;
+}
+
+body.active_admin .dropdown_menu .dropdown_menu_nipple:after {
+    border-color: #0A0A0A rgba(0, 0, 0, 0);
+    border-style: solid;
+    border-width: 0 5px 5px;
+    content: " ";
+    height: 0;
+    left: -5px;
+    position: absolute;
+    top: 2px;
+    width: 0;
+}
+
+body.active_admin .dropdown_menu .dropdown_menu_list_wrapper {
+    background: -moz-linear-gradient(-90deg, #0A0A0A, #000000) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: 1px solid #000000;
+    border-radius: 4px;
+    display: inline-block;
+    padding: 2px;
+    position: absolute;
+}
+
+body.active_admin .dropdown_menu .dropdown_menu_list_wrapper .dropdown_menu_list {
+    background-color: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 3px;
+    display: block;
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+}
+
+body.active_admin .dropdown_menu .dropdown_menu_list_wrapper .dropdown_menu_list li {
+    border-bottom: 1px solid #EBEBEB;
+    display: block;
+}
+
+body.active_admin .dropdown_menu .dropdown_menu_list_wrapper .dropdown_menu_list li a {
+    display: block;
+    font-size: 0.95em;
+    font-weight: bold;
+    padding: 7px 16px 5px;
+    text-align: center;
+    text-decoration: none;
+}
+
+body.active_admin .dropdown_menu .dropdown_menu_list_wrapper .dropdown_menu_list li a:hover {
+    background: -moz-linear-gradient(-90deg, #75A1C2, #608CB4) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #FFFFFF;
+    text-shadow: 0 1px 0 #5A83AA;
+}
+
+body.active_admin .dropdown_menu .dropdown_menu_list_wrapper .dropdown_menu_list li a:active {
+    background: -moz-linear-gradient(-90deg, #608CB4, #75A1C2) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #FFFFFF;
+}
+
+body.active_admin .dropdown_menu .dropdown_menu_list_wrapper .dropdown_menu_list li:first-child a {
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+}
+
+body.active_admin .dropdown_menu .dropdown_menu_list_wrapper .dropdown_menu_list li:last-child {
+    border: medium none;
+}
+
+body.active_admin .dropdown_menu .dropdown_menu_list_wrapper .dropdown_menu_list li:last-child a {
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+}
+
+body.active_admin td span.icon svg path, body.active_admin td span.icon svg polygon, body.active_admin td span.icon svg rect, body.active_admin td span.icon svg circle, body.active_admin p span.icon svg path, body.active_admin p span.icon svg polygon, body.active_admin p span.icon svg rect, body.active_admin p span.icon svg circle {
+    fill: #B3BCC1 !important;
+}
+
+body.active_admin td span.icon, body.active_admin p span.icon {
+    height: 0.8em;
+    width: 0.8em;
+}
+
+body.active_admin td span.icon svg, body.active_admin p span.icon svg {
+    height: 0.8em;
+    width: 0.8em;
+}
+
+body.active_admin td span.icon, body.active_admin p span.icon {
+    margin: 0 3px;
+}
+
+body.active_admin a.member_link {
+    margin-right: 7px;
+    white-space: nowrap;
+}
+
+body.active_admin table.index_grid td {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: medium none;
+    margin: 0;
+    padding: 0 20px 20px 0;
+}
+
+body.active_admin .columns {
+    clear: both;
+    padding: 0;
+}
+
+body.active_admin .columns .column {
+    float: left;
+}
+
+body.active_admin a, body.active_admin a:link, body.active_admin a:visited {
+    color: #38678B;
+    text-decoration: underline;
+}
+
+body.active_admin a:hover {
+    text-decoration: none;
+}
+
+body.active_admin td span.icon svg path, body.active_admin td span.icon svg polygon, body.active_admin td span.icon svg rect, body.active_admin td span.icon svg circle, body.active_admin p span.icon svg path, body.active_admin p span.icon svg polygon, body.active_admin p span.icon svg rect, body.active_admin p span.icon svg circle {
+    fill: #B3BCC1 !important;
+}
+
+body.active_admin td span.icon, body.active_admin p span.icon {
+    height: 0.8em;
+    width: 0.8em;
+}
+
+body.active_admin td span.icon svg, body.active_admin p span.icon svg {
+    height: 0.8em;
+    width: 0.8em;
+}
+
+body.active_admin td span.icon, body.active_admin p span.icon {
+    margin: 0 3px;
+}
+
+body.active_admin a.member_link {
+    margin-right: 7px;
+    white-space: nowrap;
+}
+
+body.active_admin td span.icon svg path, body.active_admin td span.icon svg polygon, body.active_admin td span.icon svg rect, body.active_admin td span.icon svg circle, body.active_admin p span.icon svg path, body.active_admin p span.icon svg polygon, body.active_admin p span.icon svg rect, body.active_admin p span.icon svg circle {
+    fill: #B3BCC1 !important;
+}
+
+body.active_admin td span.icon, body.active_admin p span.icon {
+    height: 0.8em;
+    width: 0.8em;
+}
+
+body.active_admin td span.icon svg, body.active_admin p span.icon svg {
+    height: 0.8em;
+    width: 0.8em;
+}
+
+body.active_admin td span.icon, body.active_admin p span.icon {
+    margin: 0 3px;
+}
+
+body.active_admin a.member_link {
+    margin-right: 7px;
+    white-space: nowrap;
+}
+
+body.active_admin .paginated_collection_contents {
+    clear: both;
+}
+
+body.active_admin .pagination {
+    float: right;
+    font-size: 0.9em;
+    margin-left: 10px;
+}
+
+body.active_admin .pagination span.page.current {
+    background: -moz-linear-gradient(-90deg, #262626, #000000) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: 1px solid #484E53;
+    border-radius: 200px;
+    color: #EFEFEF;
+    display: inline-block;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 12px;
+    margin-right: 3px;
+    padding: 7px 16px 6px;
+    text-decoration: none;
+    text-shadow: 0 1px 0 #000000;
+}
+
+body.active_admin .pagination span.page.current.disabled {
+    cursor: default;
+    opacity: 0.5;
+}
+
+body.active_admin .pagination span.page.current:hover:not(.disabled) {
+    background: -moz-linear-gradient(-90deg, #2E2E2E, #000000) repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+body.active_admin .pagination span.page.current:active:not(.disabled) {
+    background: -moz-linear-gradient(-90deg, #141414, #000000) repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+body.active_admin .pagination a, body.active_admin .pagination span.page.current {
+    border-radius: 0;
+    margin-right: 4px;
+    padding: 2px 5px;
+}
+
+body.active_admin .pagination_information {
+    color: #B3BCC1;
+    float: right;
+    margin-bottom: 5px;
+}
+
+body.active_admin .pagination_information b {
+    color: #5C6469;
+}
+
+body.active_admin .download_links {
+    float: left;
+}
+
+body.active_admin .section, body.active_admin .panel {
+    background: none repeat scroll 0 0 #F4F4F4;
+    border-radius: 4px;
+    box-shadow: 0 1px 4px #DDDDDD inset;
+    margin-bottom: 20px;
+}
+
+body.active_admin .section > h3, body.active_admin .panel > h3 {
+    border: 1px solid #CDCDCD;
+    color: #5E6469;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 18px;
+    margin-bottom: 0.5em;
+    padding: 5px 10px 3px;
+    text-shadow: 0 1px 0 #FFFFFF;
+}
+
+body.active_admin .section > h3 span.icon svg path, body.active_admin .section > h3 span.icon svg polygon, body.active_admin .section > h3 span.icon svg rect, body.active_admin .section > h3 span.icon svg circle, body.active_admin .panel > h3 span.icon svg path, body.active_admin .panel > h3 span.icon svg polygon, body.active_admin .panel > h3 span.icon svg rect, body.active_admin .panel > h3 span.icon svg circle {
+    fill: #5E6469 !important;
+}
+
+body.active_admin .section > h3 span.icon, body.active_admin .panel > h3 span.icon {
+    height: 1em;
+    width: 1em;
+}
+
+body.active_admin .section > h3 span.icon svg, body.active_admin .panel > h3 span.icon svg {
+    height: 1em;
+    width: 1em;
+}
+
+body.active_admin .section > div, body.active_admin .panel > div {
+    padding: 3px 15px 15px;
+}
+
+body.active_admin .section hr, body.active_admin .panel hr {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: -moz-use-text-color -moz-use-text-color #E8E8E8;
+    border-image: none;
+    border-style: none none solid;
+    border-width: medium medium 1px;
+}
+
+body.active_admin .sidebar_section {
+    background: none repeat scroll 0 0 #F4F4F4;
+    border-radius: 4px;
+    box-shadow: 0 1px 4px #DDDDDD inset;
+    margin-bottom: 20px;
+}
+
+body.active_admin .sidebar_section > h3 {
+    border: 1px solid #CDCDCD;
+    color: #5E6469;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 18px;
+    margin-bottom: 0.5em;
+    padding: 5px 10px 3px;
+    text-shadow: 0 1px 0 #FFFFFF;
+}
+
+body.active_admin .sidebar_section > h3 span.icon svg path, body.active_admin .sidebar_section > h3 span.icon svg polygon, body.active_admin .sidebar_section > h3 span.icon svg rect, body.active_admin .sidebar_section > h3 span.icon svg circle {
+    fill: #5E6469 !important;
+}
+
+body.active_admin .sidebar_section > h3 span.icon {
+    height: 1em;
+    width: 1em;
+}
+
+body.active_admin .sidebar_section > h3 span.icon svg {
+    height: 1em;
+    width: 1em;
+}
+
+body.active_admin .sidebar_section > div {
+    padding: 3px 15px 15px;
+}
+
+body.active_admin .sidebar_section hr {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: -moz-use-text-color -moz-use-text-color #E8E8E8;
+    border-image: none;
+    border-style: none none solid;
+    border-width: medium medium 1px;
+}
+
+body.active_admin .columns {
+    margin-bottom: 10px;
+}
+
+body.active_admin .scopes li .count {
+    color: #8E979E;
+    font-size: 0.9em;
+    font-weight: normal;
+    line-height: 10px;
+}
+
+body.active_admin .status_tag {
+    background: none repeat scroll 0 0 #CACACA;
+    color: #FFFFFF;
+    font-size: 0.8em;
+    letter-spacing: 0.15em;
+    padding: 3px 5px 2px;
+    text-transform: uppercase;
+}
+
+body.active_admin .status_tag.ok, body.active_admin .status_tag.published, body.active_admin .status_tag.complete, body.active_admin .status_tag.completed, body.active_admin .status_tag.green {
+    background: none repeat scroll 0 0 #8DAA92;
+}
+
+body.active_admin .status_tag.warn, body.active_admin .status_tag.warning, body.active_admin .status_tag.orange {
+    background: none repeat scroll 0 0 #E29B20;
+}
+
+body.active_admin .status_tag.error, body.active_admin .status_tag.errored, body.active_admin .status_tag.red {
+    background: none repeat scroll 0 0 #D45F53;
+}
+
+body.active_admin td span.icon svg path, body.active_admin td span.icon svg polygon, body.active_admin td span.icon svg rect, body.active_admin td span.icon svg circle, body.active_admin p span.icon svg path, body.active_admin p span.icon svg polygon, body.active_admin p span.icon svg rect, body.active_admin p span.icon svg circle {
+    fill: #B3BCC1 !important;
+}
+
+body.active_admin td span.icon, body.active_admin p span.icon {
+    height: 0.8em;
+    width: 0.8em;
+}
+
+body.active_admin td span.icon svg, body.active_admin p span.icon svg {
+    height: 0.8em;
+    width: 0.8em;
+}
+
+body.active_admin td span.icon, body.active_admin p span.icon {
+    margin: 0 3px;
+}
+
+body.active_admin a.member_link {
+    margin-right: 7px;
+    white-space: nowrap;
+}
+
+body.active_admin .table_tools {
+    display: block;
+    height: 20px;
+    margin-bottom: 16px;
+    width: 100%;
+}
+
+body.active_admin .table_tools .table_tools_button + .table_tools_button {
+    margin-left: 6px;
+}
+
+body.active_admin .table_tools .table_tools_button + .table_tools_segmented_control {
+    margin-left: 6px;
+}
+
+body.active_admin .table_tools .table_tools_segmented_control + .table_tools_button {
+    margin-left: 6px;
+}
+
+body.active_admin a.table_tools_button, body.active_admin .table_tools .dropdown_menu_button {
+    background: -moz-linear-gradient(-90deg, #FFFFFF, #F0F0F0) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    font-size: 0.9em;
+    padding: 4px 14px;
+    position: relative;
+    text-decoration: none;
+}
+
+body.active_admin a.table_tools_button:hover:not(.disabled), body.active_admin .table_tools .dropdown_menu_button:hover:not(.disabled) {
+    background: -moz-linear-gradient(-90deg, #FFFFFF, #F6F6F6) repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+body.active_admin a.table_tools_button:active:not(.disabled), body.active_admin .table_tools .dropdown_menu_button:active:not(.disabled) {
+    background: -moz-linear-gradient(-90deg, #FFFFFF, #E8E8E8) repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+body.active_admin .table_tools_segmented_control {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+body.active_admin .table_tools_segmented_control li {
+    display: inline-block;
+    list-style-image: none;
+    list-style-type: none;
+    margin-left: -7px;
+    white-space: nowrap;
+}
+
+body.active_admin .table_tools_segmented_control li a {
+    border-radius: 0;
+}
+
+body.active_admin .table_tools_segmented_control li:first-child {
+    margin-left: 0;
+}
+
+body.active_admin .table_tools_segmented_control li:first-child a {
+    border-bottom-left-radius: 12px;
+    border-top-left-radius: 12px;
+}
+
+body.active_admin .table_tools_segmented_control li:last-child a {
+    border-bottom-right-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+body.active_admin .table_tools_segmented_control li.selected a {
+    background: -moz-linear-gradient(-90deg, #F0F0F0, #FDFDFD) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    cursor: default;
+}
+
+body.active_admin .table_tools_segmented_control li.selected a:hover {
+    background: -moz-linear-gradient(-90deg, #F0F0F0, #FDFDFD) repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+body.active_admin table.dashboard {
+    width: 100%;
+}
+
+body.active_admin table.dashboard td {
+    border-bottom: medium none;
+}
+
+body.active_admin table.dashboard .dashboard_section {
+    background: none repeat scroll 0 0 #F4F4F4;
+    border-radius: 4px;
+    box-shadow: 0 1px 4px #DDDDDD inset;
+    margin-bottom: 20px;
+}
+
+body.active_admin table.dashboard .dashboard_section > h3 {
+    border: 1px solid #CDCDCD;
+    color: #5E6469;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 18px;
+    margin-bottom: 0.5em;
+    padding: 5px 10px 3px;
+    text-shadow: 0 1px 0 #FFFFFF;
+}
+
+body.active_admin table.dashboard .dashboard_section > h3 span.icon svg path, body.active_admin table.dashboard .dashboard_section > h3 span.icon svg polygon, body.active_admin table.dashboard .dashboard_section > h3 span.icon svg rect, body.active_admin table.dashboard .dashboard_section > h3 span.icon svg circle {
+    fill: #5E6469 !important;
+}
+
+body.active_admin table.dashboard .dashboard_section > h3 span.icon {
+    height: 1em;
+    width: 1em;
+}
+
+body.active_admin table.dashboard .dashboard_section > h3 span.icon svg {
+    height: 1em;
+    width: 1em;
+}
+
+body.active_admin table.dashboard .dashboard_section > div {
+    padding: 3px 15px 15px;
+}
+
+body.active_admin table.dashboard .dashboard_section hr {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: -moz-use-text-color -moz-use-text-color #E8E8E8;
+    border-image: none;
+    border-style: none none solid;
+    border-width: medium medium 1px;
+}
+
+body.active_admin .logged_out {
+    background: none repeat scroll 0 0 #E8E9EA;
+}
+
+body.active_admin .logged_out #content_wrapper {
+    margin: 70px auto;
+    width: 500px;
+}
+
+body.active_admin .logged_out #content_wrapper #active_admin_content {
+    background: none repeat scroll 0 0 #FFFFFF;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.37);
+    padding: 13px 30px;
+}
+
+body.active_admin .logged_out h2 {
+    background: -moz-linear-gradient(-90deg, #0D0D0D, #000000) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: medium none;
+    color: #FFFFFF;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 18px;
+    margin: -13px -30px 20px;
+    padding: 5px 10px 3px;
+    text-shadow: 0 1px 0 #000000;
+}
+
+body.active_admin .logged_out h2 span.icon svg path, body.active_admin .logged_out h2 span.icon svg polygon, body.active_admin .logged_out h2 span.icon svg rect, body.active_admin .logged_out h2 span.icon svg circle {
+    fill: #5E6469 !important;
+}
+
+body.active_admin .logged_out h2 span.icon {
+    height: 1em;
+    width: 1em;
+}
+
+body.active_admin .logged_out h2 span.icon svg {
+    height: 1em;
+    width: 1em;
+}
+
+body.active_admin .logged_out #login form fieldset {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    box-shadow: none;
+    margin-bottom: 0;
+    padding: 0;
+}
+
+body.active_admin .logged_out #login form fieldset li {
+    padding: 10px 0;
+}
+
+body.active_admin .logged_out #login form fieldset input[type="text"], body.active_admin .logged_out #login form fieldset input[type="email"], body.active_admin .logged_out #login form fieldset input[type="password"] {
+    width: 70%;
+}
+
+body.active_admin .logged_out #login form fieldset.buttons {
+    margin-left: 20%;
+}
+
+body.active_admin .logged_out #login a {
+    float: right;
+    margin-top: -32px;
+}
+
+body.active_admin #footer {
+    clear: both;
+    font-size: 0.8em;
+    padding: 30px;
+}
+
+body.active_admin #footer p {
+    padding-top: 10px;
+}
+
+body.active_admin #index_footer {
+    font-size: 0.85em;
+    padding-top: 5px;
+    text-align: right;
+}
+
+body.active_admin .index_content {
+    clear: both;
+}
+
+body.active_admin #wrapper {
+    display: table;
+    width: 100%;
+}
+
+body.active_admin #active_admin_content {
+    margin: 0;
+    padding: 25px 30px;
+}
+
+body.active_admin #active_admin_content #main_content_wrapper {
+    float: left;
+    width: 100%;
+}
+
+body.active_admin #active_admin_content #main_content_wrapper #main_content {
+    margin-right: 300px;
+}
+
+body.active_admin #active_admin_content.without_sidebar #main_content_wrapper #main_content {
+    margin-right: 0;
+}
+
+body.active_admin #active_admin_content #sidebar {
+    float: left;
+    margin-left: -270px;
+    width: 270px;
+}
+
+body.active_admin td span.icon svg path, body.active_admin td span.icon svg polygon, body.active_admin td span.icon svg rect, body.active_admin td span.icon svg circle, body.active_admin p span.icon svg path, body.active_admin p span.icon svg polygon, body.active_admin p span.icon svg rect, body.active_admin p span.icon svg circle {
+    fill: #B3BCC1 !important;
+}
+
+body.active_admin td span.icon, body.active_admin p span.icon {
+    height: 0.8em;
+    width: 0.8em;
+}
+
+body.active_admin td span.icon svg, body.active_admin p span.icon svg {
+    height: 0.8em;
+    width: 0.8em;
+}
+
+body.active_admin td span.icon, body.active_admin p span.icon {
+    margin: 0 3px;
+}
+
+body.active_admin a.member_link {
+    margin-right: 7px;
+    white-space: nowrap;
+}
+
+body.active_admin #title_bar {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #CDCDCD #CDCDCD #EEEEEE;
+    border-image: none;
+    border-style: solid;
+    border-width: 1px;
+    color: #5E6469;
+    display: table;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 18px;
+    margin: 0 0 15px;
+    padding: 10px 30px;
+    position: relative;
+    text-shadow: 0 1px 0 #FFFFFF;
+    width: 100%;
+    z-index: 800;
+}
+
+body.active_admin #title_bar span.icon svg path, body.active_admin #title_bar span.icon svg polygon, body.active_admin #title_bar span.icon svg rect, body.active_admin #title_bar span.icon svg circle {
+    fill: #5E6469 !important;
+}
+
+body.active_admin #title_bar span.icon {
+    height: 1em;
+    width: 1em;
+}
+
+body.active_admin #title_bar span.icon svg {
+    height: 1em;
+    width: 1em;
+}
+
+body.active_admin #title_bar:after {
+    clear: both;
+    content: "";
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+
+body.active_admin #title_bar #titlebar_left, body.active_admin #title_bar #titlebar_right {
+    display: table-cell;
+    height: 50px;
+    vertical-align: middle;
+}
+
+body.active_admin #title_bar #titlebar_right {
+    text-align: right;
+}
+
+body.active_admin #title_bar h2 {
+    font-size: 2.6em;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+body.active_admin #title_bar .action_items a {
+    margin: 0;
+    padding: 12px 17px 10px;
+}
+
+body.active_admin #title_bar .action_items a span.icon {
+    margin-right: 4px;
+    vertical-align: bottom;
+}
+
+body.active_admin #title_bar .action_items a:hover span.icon svg path, body.active_admin #title_bar .action_items a:hover span.icon svg polygon, body.active_admin #title_bar .action_items a:hover span.icon svg rect, body.active_admin #title_bar .action_items a:hover span.icon svg circle {
+    fill: #000000 !important;
+}
+
+body.active_admin {
+    background: none repeat scroll 0 0 #FFFFFF;
+    color: #323537;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14x;
+    line-height: 150%;
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,14 @@
+#OS junk files
+[Tt]humbs.db
+.DS_Store
+.htaccess-bullgame-production
+.htaccess-bullgame-staging
+database.sql
+
+#Project files
+[Uu]ploads/
+[Ll]ogs/
+.[Ii]dea/
+
+# Office Temp Files
+~$
